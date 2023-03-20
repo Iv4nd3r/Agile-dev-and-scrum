@@ -1,7 +1,7 @@
 ---
 name: Issue Template
 about: Describe the issues
-title: ''
+title: Issue
 labels: ''
 assignees: ''
 
